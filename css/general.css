@@ -5,7 +5,7 @@
     padding: 0px;
 }
 :root {
-    font-size: 16px;
+    font-size: 12px;
 }
 header ul {
     display: flex;
@@ -109,6 +109,7 @@ font-size: 1.5rem;
 font-weight: 700;
 color: #CFCFCF;
 min-width: 500px;
+width: 100%;
 margin-top: 30px;
 
 }
@@ -299,9 +300,9 @@ margin-top: 15px;
 
 footer a.vk2 {
     background-image: url(/img/general/logo2.svg);
-    margin-top: 5px;
-    width: 35px;
-    height: 35px;
+    margin-top: 30px;
+    width: 33px;
+    height: 33px;
     position: absolute;
 }
 footer a.vk2:hover {
