@@ -89,12 +89,12 @@ color: #F60A03;
 }
 
 .vk {
-background-image: url(/img/general/vk.svg);
+background-image: url(../img/general/vk.svg);
 width: 80px;
 height: 80px;
 }
 a.vk:hover {
-background-image: url(/img/general/logo_hover.svg);
+background-image: url(../img/general/logo_hover.svg);
 margin-top: 5px;
 width: 80px;
 height: 80px;
@@ -118,7 +118,7 @@ input.input_search:focus {
     outline: none;
 }
 .input_submit{
-    background-image: url(/img/general/search.svg);
+    background-image: url(../img/general/search.svg);
     width: 25px;
     height: 24px;
     border: none;
@@ -128,7 +128,7 @@ input.input_search:focus {
    position: absolute;
 }
 button.input_submit:hover {
-    background-image: url(/img/general/search_before.svg);
+    background-image: url(../img/general/search_before.svg);
   }
 
 
@@ -299,14 +299,14 @@ margin-top: 15px;
 }
 
 footer a.vk2 {
-    background-image: url(/img/general/logo2.svg);
+    background-image: url(../img/general/logo2.svg);
     margin-top: 30px;
     width: 33px;
     height: 33px;
     position: absolute;
 }
 footer a.vk2:hover {
-    background-image: url(/img/general/logo2_hover.svg);
+    background-image: url(../img/general/logo2_hover.svg);
     width: 40px;
     height: 40px;
     position: absolute;
