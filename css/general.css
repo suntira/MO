@@ -89,12 +89,12 @@ color: #F60A03;
 }
 
 .vk {
-background-image: url(/img/general/vk.svg);
+background-image: url(../img/general/vk.svg);
 width: 80px;
 height: 80px;
 }
 a.vk:hover {
-background-image: url(/img/general/logo_hover.svg);
+background-image: url(../img/general/logo_hover.svg);
 margin-top: 5px;
 width: 80px;
 height: 80px;
