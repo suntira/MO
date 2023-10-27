@@ -128,7 +128,7 @@ input.input_search:focus {
    position: absolute;
 }
 button.input_submit:hover {
-    background-image: url(//img/general/search_before.svg)
+    background-image: url(../img/general/search_before.svg);
   }
 
 
