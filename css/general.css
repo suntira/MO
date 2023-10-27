@@ -92,7 +92,7 @@ color: #F60A03;
 background-image: url(../img/general/logo2_hover.svg);
 width: 80px;
 height: 80px;
-z-index: 1;
+position: absolute;
 }
 a.vk:hover {
 background-image: url(../img/general/logo2.svg);
